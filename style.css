@@ -1,9 +1,27 @@
 body {
-    color: white;
-    background: black;
+  color: #444;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  line-height: 1.5em;
+  padding: 1em;
+  margin: auto;
+  max-width: 52em;
+  background: #fefefe;
+}
+#wrap {
+    width: 400px;
+    margin: 0 auto;
 }
 
 h1, h2 {
 
-    text-allign: center;
+    text-align: center;
+}
+
+h1 {
+    color: #F29559;
+}
+
+h2 {
+    color: #B8B08D;
 }
